@@ -9,7 +9,7 @@
 <h4>1. Faça o clone do projeto:</h4>
 
 ```
-  git clone: https://github.com/vinive/desafio-conceitos-node.git
+  git clone: https://github.com/vinive/Conceitos-do-ReactJS.git
 ```
 
 <h4>2. Abra a pasta e execute o yarn:</h4>
